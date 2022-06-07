@@ -1,11 +1,6 @@
-<!-- 博客 -->
-<div align="center">
-  <a href="https://bygo.github.io/"><img src="https://img.shields.io/badge/Blog-000?logo=ghost&logoColor=white"></a>&emsp;
-</div>
-
 <div align="center">
 
-
+<a href="https://bygo.github.io/"><img src="https://img.shields.io/badge/Blog-000?logo=ghost&logoColor=white"></a>&emsp;
 
 ![Mac](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)
 ![Goland](https://img.shields.io/badge/Goland-000000?logo=goland&logoColor=white)
