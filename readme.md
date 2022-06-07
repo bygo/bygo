@@ -20,8 +20,5 @@
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-![ByGo GitHub stats](https://github-readme-stats.vercel.app/api?username=bygo&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-
-
 </div>
 
