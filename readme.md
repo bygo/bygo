@@ -8,3 +8,6 @@
 ![Docker](https://img.shields.io/badge/Docker-00ADD8?logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-007ACC?logo=react&logoColor=white)
+![elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?logo=elasticsearch&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&logoColor=white)
+![redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
